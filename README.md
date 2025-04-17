@@ -145,7 +145,7 @@
 
 ## Usage
 
-If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of LLMs and MLLMs, please refer to the [src/LLaMA_Factory/README.md](./src/LLaMA_Factory/README.md) document
+If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of LLMs and MLLMs, please refer to the [src/LLaMA-Factory-main/README.md](./src/LLaMA-Factory-main/README.md) document
 
 The models supported by this module are:
 
