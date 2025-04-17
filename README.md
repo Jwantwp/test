@@ -30,7 +30,7 @@
 
 |        Models         |                     Model scale and Link                     |                            Source                            | Type |
 | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-|    Qwen2-Instruct     | 🤗 [0.5B](https://huggingface.co/Qwen/Qwen2-0.5B-Instruct) / [1.5B](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct) / [7B]((https://huggingface.co/Qwen/Qwen2-7B-Instruct)) | [📜 Paper](https://arxiv.org/html/2407.10671v4)  / [ GitHub](https://github.com/QwenLM/Qwen2.5) | LLM  |
+|    Qwen2-Instruct     | 🤗 [0.5B](https://huggingface.co/Qwen/Qwen2-0.5B-Instruct) / [1.5B](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct) / [7B](https://huggingface.co/Qwen/Qwen2-7B-Instruct) | [📜 Paper](https://arxiv.org/html/2407.10671v4)  / [ GitHub](https://github.com/QwenLM/Qwen2.5) | LLM  |
 |    Llama3-Instruct    | 🤗 [8B ](https://huggingface.co/PartAI/Dorna-Llama3-8B-Instruct) / [3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) / [3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) / [3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | [📜 Paper](https://arxiv.org/abs/2407.21783) / [GitHub](https://github.com/meta-llama/llama-models/) | LLM  |
 |   InternLM2.5-chat    | 🤗 [7B](https://huggingface.co/internlm/internlm2_5-7b-chat)  | [📜 Paper](https://arxiv.org/abs/2403.17297) / [GitHub](https://github.com/InternLM/InternLM) | LLM  |
 |      VideoLLaMA2      |  🤗 [7B](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2-7B)   | [📜 Paper](https://arxiv.org/abs/2406.07476) / [GitHub](https://github.com/DAMO-NLP-SG/VideoLLaMA2) | MLLM |
