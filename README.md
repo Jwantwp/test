@@ -152,13 +152,13 @@ The models supported by this module are:
 - LLMs: **Qwen2-0.5B**，**Qwen2-1.5B**，**Qwen2-7B**, **Llama3-8B**, **Llama3.1-8B**，**Llama3.2-1B**，**Llama3-3B**，**Internlm2.5-8B**
 - MLLMs: **Qwen2-VL-7B**, **Qwen2-VL-72B**
 
-If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of LLaVA series models, please refer to the `src/LLaVA-NeXT-main/README.md` document, which supports the following models:
+If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of LLaVA series models, please refer to the [src/LLaVA-NeXT-main/README.md](./src/LLaVA-NeXT-main/README.md) document, which supports the following models:
 
 - MLLMs: **LLaVA-ov-7B**, **LLaVA-Video-7B**，**LLaVA-ov-72B**，**LLaVA-Video-72B**
 
-If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **MiniCPM-V-2.6-8B **model, please refer to it `src/Swift/README.md`
+If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **MiniCPM-V-2.6-8B **model, please refer to it [src/Swift/README.md](./src/Swift/README.md)
 
-If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **VideoLLaMA2-7B** model, please refer to it `src/VideoLLaMA2/README.md`
+If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **VideoLLaMA2-7B** model, please refer to it [src/VideoLLaMA2/README.md](./src/VideoLLaMA2/README.md)
 
 
 
