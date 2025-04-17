@@ -156,7 +156,7 @@ If you want to perform zero-shot inference, supervised fine-tuning, and instruct
 
 - MLLMs: **LLaVA-ov-7B**, **LLaVA-Video-7B**，**LLaVA-ov-72B**，**LLaVA-Video-72B**
 
-If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **MiniCPM-V-2.6-8B **model, please refer to it [src/Swift/README.md](./src/Swift/README.md)
+If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **MiniCPM-V-2.6-8B** model, please refer to it [src/Swift/README.md](./src/Swift/README.md)
 
 If you want to perform zero-shot inference, supervised fine-tuning, and instruction fine-tuning of the **VideoLLaMA2-7B** model, please refer to it [src/VideoLLaMA2/README.md](./src/VideoLLaMA2/README.md)
 
