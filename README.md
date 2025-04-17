@@ -10,7 +10,7 @@
 
 
 
-![poster](.\figs\videomme.jpg)
+![poster](./figs/videomme.jpg)
 
 - **[2025.04.30]**: 🔥 We release the code related to evaluation of LLMs and MLLMs.
 - **[2025.04.30]**: 🔥 We have released the [environment](https://github.com/QwenLM/Qwen2.5) required for evaluating large models.
@@ -131,13 +131,13 @@
 
 #### Comparison of zero-shot and supervised fine-tuning (SFT) performance
 
-![zero-sft](.\figs\compar-zero-sft.jpg)
+![zero-sft](./figs/compar-zero-sft.jpg)
 
 
 
 #### Instruction tuning results of MLLMs and LLMs
 
-![image-20250415145905173](.\figs\IT.jpg)
+![image-20250415145905173](./figs/IT.jpg)
 
 
 
